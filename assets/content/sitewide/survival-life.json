@@ -1,0 +1,19 @@
+{
+  "locations": [],
+  "options": {
+    "nav": {
+      "hamburger": true,
+      "show_name": true,
+      "show_logo": true
+    }
+  },
+  "persistentbar": {
+    "show_sitewide_persistent_bar": false
+  },
+  "name": "Survival Life",
+  "logo": "/img/logo-sl2.png",
+  "footer": {
+    "logo": "/img/logo-sl2.png",
+    "show_logo": true
+  }
+}
