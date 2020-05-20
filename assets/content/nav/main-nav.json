@@ -3,7 +3,8 @@
   "nav_items": [
     {
       "status": true,
-      "title": "Products"
+      "title": "Products",
+      "link": "/products"
     }
   ],
   "title": "Main Nav"
