@@ -2,7 +2,7 @@
   "locations": [],
   "options": {
     "nav": {
-      "hamburger": true,
+      "hamburger": false,
       "show_name": false,
       "show_logo": true
     }
